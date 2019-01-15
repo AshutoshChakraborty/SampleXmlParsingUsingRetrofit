@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleXmlParsingUsingRetrofit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="base_url">http://120.138.9.41:8085</string>
+</resources>
